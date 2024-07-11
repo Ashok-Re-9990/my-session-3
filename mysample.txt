@@ -3,3 +3,6 @@ day 2 of testing
 
 day 4 of testing
 day 5 of testing
+
+day 6 of testing
+day 7 of testing
